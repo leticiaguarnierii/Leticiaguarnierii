@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![leticiaguarnierii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leticiaguarnierii&theme=onedark&hide_border=false)
+
+![Snake animation](https://github.com/leticiaguarnierii/leticiaguarnierii/blob/output/github-contribution-grid-snake.svg)
